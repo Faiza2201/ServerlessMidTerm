@@ -1,4 +1,4 @@
-# CST8915-lab5: Serverless Mid Term project
+# CST8917-lab5: Serverless Mid Term project
 
 **Student Name**: Faiza Boudehane
 **Student ID**: 041273470
